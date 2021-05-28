@@ -1,0 +1,16 @@
+#main{
+    background-color: aqua;
+
+}
+button{
+    margin-left: 50px;
+}
+input{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#one{
+    margin-left: -1px;
+}
+#two{
+    margin-left: -2px;}
